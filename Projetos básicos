@@ -1,0 +1,15 @@
+Projetos básicos
+
+Esses são projetos realizados por mim quando estava a estudar para a certificação da AWS Cloud Practitioner.
+
+Hospedagem de site estático no S3.
+
+Hospedagem de site estático no Amplify.
+
+Execução de instâncias EC2.
+
+Criação e expansão de um volume EBS.
+
+Criação de uma VPC e componentes de redes.
+
+Criação de usuário e grupos IAM e testando suas permissões para a finalidade do princípio do privilégio mínimo.
